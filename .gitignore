@@ -1,0 +1,17 @@
+### Maven ###
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+mvnw
+mvnw.cmd
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
+
+### Some additional ignores (sort later)
+*.DS_Store
